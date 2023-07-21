@@ -1,5 +1,2 @@
 dash == 2.10
-base64
-io
 pandas
-datetime
